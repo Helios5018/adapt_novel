@@ -1,2 +1,4 @@
 .vscode/
 venv/
+adapt_novel/__pycache__/
+adapt_novel/__pycache__/setup.cpython-313.pyc
